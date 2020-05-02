@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Everton Paes\\Desktop\\SistemaEscolar\\SistemaEscolar.csproj": {}
+    "C:\\Users\\Everton Paes\\SistemaEscolar\\SistemaEscolar.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Everton Paes\\Desktop\\SistemaEscolar\\SistemaEscolar.csproj": {
+    "C:\\Users\\Everton Paes\\SistemaEscolar\\SistemaEscolar.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Everton Paes\\Desktop\\SistemaEscolar\\SistemaEscolar.csproj",
+        "projectUniqueName": "C:\\Users\\Everton Paes\\SistemaEscolar\\SistemaEscolar.csproj",
         "projectName": "SistemaEscolar",
-        "projectPath": "C:\\Users\\Everton Paes\\Desktop\\SistemaEscolar\\SistemaEscolar.csproj",
+        "projectPath": "C:\\Users\\Everton Paes\\SistemaEscolar\\SistemaEscolar.csproj",
         "packagesPath": "C:\\Users\\Everton Paes\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Everton Paes\\Desktop\\SistemaEscolar\\obj\\",
+        "outputPath": "C:\\Users\\Everton Paes\\SistemaEscolar\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Everton Paes\\AppData\\Roaming\\NuGet\\NuGet.Config"

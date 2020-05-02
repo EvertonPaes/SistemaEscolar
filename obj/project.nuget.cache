@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dAckyixG9vmjp4Zyq8SfFaSRaWT3b5LuiwP5i1S1PqDHv1waBz4UECCi5Z1tPRxDT2jW4XXI+2ci63638jIX7Q==",
+  "dgSpecHash": "b2leQRnZeMyhS0QvhOKPcba+zJMlTuOVVdDgWeobNPgbEonr+VgA3Kxe/GhwZZ0syv6Gu/AFiRLotehoL+YOmQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Everton Paes\\Desktop\\SistemaEscolar\\SistemaEscolar.csproj",
+  "projectFilePath": "C:\\Users\\Everton Paes\\SistemaEscolar\\SistemaEscolar.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Everton Paes\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\3.1.3\\microsoft.aspnetcore.cryptography.internal.3.1.3.nupkg.sha512",
     "C:\\Users\\Everton Paes\\.nuget\\packages\\microsoft.aspnetcore.cryptography.keyderivation\\3.1.3\\microsoft.aspnetcore.cryptography.keyderivation.3.1.3.nupkg.sha512",
